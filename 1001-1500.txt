@@ -497,3 +497,4 @@
 慰: [wèi] 安慰 comfort, console; 慰问 express sympathy fo<BR><BR>rank = 1497
 坛: [tán] (F��) altar, raised plot of ground; (F��) jar, ju<BR><BR>rank = 1498
 甘: [gān] sweet; 甘蔗 gānzhe sugarcane; 甘肃 Gānsù<BR>{Compare with 日 rì sun<BR><BR>rank = 1499
+咬: [yǎo] bite; bark; pronounc<BR><BR>rank = 1500

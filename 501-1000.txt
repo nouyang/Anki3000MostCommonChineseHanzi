@@ -497,3 +497,4 @@
 毫: [háo] long fine hair, milli-; 毫不 háobù not at al<BR><BR>rank = 997
 狐: [hú] 狐狸 húli fo<BR><BR>rank = 998
 镇: [zhèn] town, press down, calm, coo<BR><BR>rank = 999
+床: [chuáng] bed; 床单 chuángdān sheet; 河床 river be<BR><BR>rank = 1000

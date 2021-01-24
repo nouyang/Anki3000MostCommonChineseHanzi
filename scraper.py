@@ -42,9 +42,9 @@ for line in r.text.split('<TR><TD ALIGN="CENTER">')[1:]:  # remove beginning of 
     )
 
 for chunk in [0, 500, 1000, 1500, 2000, 2500]:
-    with open(str(chunk)+'-'+str(chunk+500)+'.txt', 'w') as hanzi_file:
+    with open(str(chunk+1)+'-'+str(chunk+500)+'.txt', 'w') as hanzi_file:
         for row in dataset:
-            if chunk < row['rank'] < chunk + 500:
+            if chunk < row['rank'] <= chunk + 500:
                 hanzi_file.write(row['hanzi'])
                 hanzi_file.write(': ')
                 hanzi_file.write(row['description'])

@@ -473,3 +473,4 @@
 爪: [zhǎo] claw, talon<BR>[zhuǎ] 爪子 claw, paw, talo<BR><BR>rank = 2497
 怯: [qiè] (胆怯 dǎnqiè) timid; cowardly; 羞怯 xiūqiè sh<BR><BR>rank = 2498
 茂: [mào] profuse, (=茂盛 màoshèng) luxuriant; 茂密 màomì dens<BR><BR>rank = 2499
+芒: [máng] awn, beard, arista, spike, sharp point<BR>[wáng] 麦芒 màiwáng awn of whea<BR><BR>rank = 2500

@@ -497,3 +497,4 @@
 示: [shì] (=表示 biǎoshì) show, indicate; 指示 zhǐshì point ou<BR><BR>rank = 497
 冲: [chōng] (F�_) rinse, rush, (F�n) rush<BR>[chòng] (F�n) toward<BR><BR>rank = 498
 竟: [jìng] finish, (=竟然 jìngrán) unexpectedly; 究竟 jiūjìng actually, exactly, in the end, after al<BR><BR>rank = 499
+乎: [hū] 似乎 sìhu it seems; 几乎 jīhū almos<BR><BR>rank = 500

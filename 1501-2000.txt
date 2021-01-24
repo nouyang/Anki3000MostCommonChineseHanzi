@@ -497,3 +497,4 @@
 仆: [pū] fall forward; 颠仆 diānpū fall (down), fall into disgrace<BR>[pú] (F�W) 仆人 púrén servan<BR><BR>rank = 1997
 迈: [mài] step, stride, ol<BR><BR>rank = 1998
 齿: [chǐ] (=牙齿 yáchǐ) toot<BR><BR>rank = 1999
+谨: [jǐn] (=谨慎 jǐnshèn) cautious, sincerel<BR><BR>rank = 2000

@@ -236,3 +236,4 @@
 溶: [róng] (=溶化 rónghuà) dissolve; 溶液 (chemical) solutio<BR><BR>rank = 2983
 瀑: [pù] 瀑布 pùbù waterfal<BR><BR>rank = 2994
 扒: [bā] hold on to; dig up; rake; strip<BR>[pá] rake up; stew, brais<BR><BR>rank = 2997
+琛: [chēn] &LT;archaic&GT<BR><BR>rank = 3000
