@@ -1,0 +1,238 @@
+肢: [zhī] 肢体 zhītǐ limbs; 四肢 the Four Limbs; 前肢 forelim<BR><BR>rank = 2501
+稻: [dào] growing rice, padd<BR><BR>rank = 2503
+兔: [tù] (兔子 tùzi) rabbi<BR><BR>rank = 2504
+圾: [jī] 垃圾 lājī refuse, garbage<BR>[sè] 垃圾 lèsè refuse, garbag<BR><BR>rank = 2505
+喻: [yù] 比喻 bǐyù analogy; 隐喻 yǐnyù metapho<BR><BR>rank = 2506
+框: [kuàng] frame; case; circl<BR><BR>rank = 2510
+缴: [jiǎo] hand in, pay<BR>[zhuó] silk string attached to an arrow for shooting bird<BR><BR>rank = 2511
+蹈: [dǎo] skip; step; 舞蹈 wǔdǎo danc<BR><BR>rank = 2512
+哨: [shào] whistle; chirp; sentry pos<BR><BR>rank = 2513
+颖: [yǐng] 新颖 xīnyǐng new and original, nove<BR><BR>rank = 2515
+菊: [jú] chrysanthemu<BR><BR>rank = 2516
+喀: [kā] (sound of coughing or vomiting<BR><BR>rank = 2518
+妆: [zhuāng] adorn oneself; 妆奁 bride's troussea<BR><BR>rank = 2519
+淹: [yān] flood; 淹死 drow<BR><BR>rank = 2520
+瓷: [cí] porcelain, china; 陶瓷 táocí ceramic<BR><BR>rank = 2521
+淀: [diàn] shallow water; (F��) form sediment; settle; precipitate; 淀粉 diànfěn starc<BR><BR>rank = 2523
+蜡: [là] wax, polish, yellowish, (=蜡烛 làzhú) candl<BR><BR>rank = 2524
+嚼: [jué] 咀嚼 jǔjué chew<BR>[jiáo] chew<BR>[jiào] 倒<BR><BR>rank = 2525
+剂: [jì] dos<BR><BR>rank = 2526
+逛: [guàng] stroll, ramble, roa<BR><BR>rank = 2527
+骤: [zhòu] gallop; 步骤 bùzhòu procedure; 骤然 zhòurán suddenl<BR><BR>rank = 2529
+暑: [shǔ] hot weather; 暑假 (shǔjià) summer vacatio<BR><BR>rank = 2530
+襟: [jīn] front of garment, bros. in law; 衣襟 yījīn front of Chinese jacke<BR><BR>rank = 2531
+庐: [lú] hut, cottag<BR><BR>rank = 2534
+苹: [píng] 苹果 píngguǒ appl<BR><BR>rank = 2536
+晒: [shài] roast in su<BR><BR>rank = 2539
+悼: [dào] 追悼, 悼念, 哀悼 mourn, griev<BR><BR>rank = 2540
+昧: [mèi] no sun; dark; obscure; hidden; to feig<BR><BR>rank = 2543
+拢: [lǒng] approach; hold together; comb (hair<BR><BR>rank = 2544
+函: [hán] letter; 函件 hánjiàn correspondence; 函数 fánshù (math) functio<BR><BR>rank = 2545
+胧: [lóng] 朦胧 ménglóng dim moonlight; obscure<BR>[lōng<BR><BR>rank = 2546
+胶: [jiāo] glue, gum, rubber, stick, stick<BR><BR>rank = 2547
+抒: [shū] express, convey; 各抒己<BR><BR>rank = 2550
+乒: [pīng] pīng on. crack (of rifle/etc.); 乒乓 pīngpāng pingpong<BR>{Compare with 兵 bīng soldier<BR><BR>rank = 2551
+讽: [fěng] 讽刺 satirize, moc<BR><BR>rank = 2552
+歹: [dǎi] bad, evil, viciou<BR><BR>rank = 2553
+旱: [hàn] dry land; drough<BR><BR>rank = 2555
+葡: [pú] 葡萄 pútao grape; 葡萄酒 pútaojiǔ grape win<BR><BR>rank = 2557
+惟: [wéi] only, alone, think, ponder, 惟一 wéiyī only, sol<BR><BR>rank = 2558
+拣: [jiǎn] choose, select, pick ou<BR><BR>rank = 2559
+耿: [gěng] 耿耿 gěnggěng brilliant; dedicated; 耿直 gěngzhí uprigh<BR><BR>rank = 2560
+廿: [niàn] twenty (same as 二十 èrshí<BR><BR>rank = 2561
+桩: [zhuāng] stake, pile; (量)= 一桩大<BR><BR>rank = 2563
+乙: [yǐ] 2nd in sequenc<BR><BR>rank = 2564
+谣: [yáo] ballad; 谣言 yáoyán rumor, hearsa<BR><BR>rank = 2565
+坠: [zhuì] fall; weigh down; 坠子 zhuìzi weight; ear pendant; balla<BR><BR>rank = 2567
+滞: [zhì] stagnant, sluggis<BR><BR>rank = 2568
+孕: [yùn] 怀孕 pregnant; 受孕 conceive; 避孕 contraceptio<BR><BR>rank = 2569
+诵: [sòng] 背诵 recite from memor<BR><BR>rank = 2570
+梳: [shū] (梳子) comb; to com<BR><BR>rank = 2571
+冈: [gāng] ridge of a hil<BR><BR>rank = 2572
+肺: [fèi] (=肺脏 fèizàng) lun<BR><BR>rank = 2573
+丸: [wán] pill, pellet, bal<BR><BR>rank = 2575
+霜: [shuāng] (=霜冻 shuāngdòng) fros<BR><BR>rank = 2576
+汁: [zhī] (=汁液 zhīyè) juice; 果汁 guǒzhī fruit juic<BR><BR>rank = 2577
+纱: [shā] yarn; 绵纱 miánshā cotton yar<BR><BR>rank = 2578
+衔: [xián] hold in mouth; hold inside; rank; 军衔 military ran<BR><BR>rank = 2581
+腻: [nì] greasy, oily; smooth; (腻烦 nìfan) disgusted, fed u<BR><BR>rank = 2583
+甸: [diàn] (ancient) suburb; pasture<BR>[diān] 沉甸甸 chéndiāndiān heav<BR><BR>rank = 2584
+啤: [pí] 啤酒 píjiǔ bee<BR><BR>rank = 2586
+坎: [kǎn] bank, ridg<BR><BR>rank = 2587
+稼: [jià] to plant, (=庄稼 zhuāngjia) crop<BR><BR>rank = 2588
+禾: [hé] grain; 禾苗 hémiáo seedling<BR><BR>rank = 2589
+愣: [lèng] distracted, stupified<BR>[lēng<BR><BR>rank = 2590
+脂: [zhī] (=油脂 yóuzhī) oil, grease; 脂肪 zhīfáng fat, greas<BR><BR>rank = 2591
+萄: [táo] 葡萄 pútao grap<BR><BR>rank = 2592
+捞: [lāo] dredge for, fish for, scoop up out of wate<BR><BR>rank = 2593
+搅: [jiǎo] disturb, annoy, (=搅拌) stir, mix, agitate<BR><BR>rank = 2594
+屑: [xiè] fragments, bits and pieces; minute; trivia<BR><BR>rank = 2596
+伞: [sǎn] (雨伞) umbrella; 跳伞, 降落伞 parachut<BR><BR>rank = 2597
+蝶: [dié] 蝴蝶 húdié butterfly; 蝶蛹 diéyǒng chrysali<BR><BR>rank = 2598
+铸: [zhù] (铸造) casting, foundin<BR><BR>rank = 2599
+躯: [qū] 身躯 body, stature; 躯体 bod<BR><BR>rank = 2600
+稚: [zhì] young, immature, childish; 稚气 zhìqì childishnes<BR><BR>rank = 2601
+腥: [xīng] flesh; fishy; 腥臭 xīngchòu rancid, stinkin<BR><BR>rank = 2602
+藤: [téng] cane, rattan; vin<BR><BR>rank = 2603
+陡: [dǒu] steep; suddenly; 陡峭 dǒuqiào precipitou<BR><BR>rank = 2607
+烫: [tàng] hot (burning hot to the touch, cf. 热 rè<BR><BR>rank = 2609
+梨: [lí] pear; 凤梨 pineappl<BR><BR>rank = 2611
+哦: [ó]<BR>[ò] Oh!<BR>[é] softly chan<BR><BR>rank = 2612
+浆: [jiāng] syrup, starch<BR>[jiàng] (=糨 jiàng) thick (of porridge etc.<BR><BR>rank = 2614
+僻: [pì] 僻静 pìjìng secluded; 偏僻 piānpì out-of-the wa<BR><BR>rank = 2616
+坊: [fāng] lane<BR>[fáng] workshop, mil<BR><BR>rank = 2617
+焉: [yān] 心不在焉 absent-minde<BR><BR>rank = 2619
+隙: [xì] gap; crack; rift; loophol<BR><BR>rank = 2620
+淘: [táo] wash, clean; 淘气 táoqì naughty; 淘汰 táotài eliminat<BR><BR>rank = 2621
+垮: [kuǎ] collapse, break dow<BR><BR>rank = 2622
+滔: [tāo] 滔滔 tāotāo torrential; 滔滔不绝 talk on and o<BR><BR>rank = 2624
+酿: [niàng] brew, ferment, wine, (=酿成 niàngchéng) result in, bree<BR><BR>rank = 2627
+鹅: [é] goose; 企鹅 qǐ'é pengui<BR><BR>rank = 2628
+兹: [zī] &LT;archaic&GT; this; now; year<BR>[cí] 龟<BR><BR>rank = 2629
+捣: [dǎo] pound, beat; harass; 捣乱 dǎoluàn make a disturbanc<BR><BR>rank = 2631
+栋: [dòng] ridgepol<BR><BR>rank = 2634
+瑰: [guī]<BR>[gui] 玫瑰 méigui ros<BR><BR>rank = 2636
+敞: [chǎng] spacious; ope<BR><BR>rank = 2637
+癌: [ái] (=癌症 áizhèng) cance<BR><BR>rank = 2638
+缆: [lǎn] cable; 缆车 cable ca<BR><BR>rank = 2640
+烁: [shuò] shining; 闪烁 glimmer, twinkl<BR><BR>rank = 2642
+玫: [méi] 玫瑰 méigui rose; 黄刺玫 yellow ros<BR><BR>rank = 2643
+诈: [zhà] cheat, swindle; pretend, feig<BR><BR>rank = 2645
+煞: [shà] evil spirit; 煞白 shàbái deathly pale<BR>[shā] stop, (= 刹 shā, =杀 shā) kil<BR><BR>rank = 2648
+膜: [mó] membrane, film; 角膜 jiǎomó cornea (of eye<BR><BR>rank = 2649
+焚: [fén] (焚烧 fénshāo) burn, set on fir<BR><BR>rank = 2650
+粘: [zhān] to glue, to paste<BR>[nián] (=黏 nián) stick<BR><BR>rank = 2654
+摧: [cuī] break, (=摧毁 cuīhuǐ, =摧残 cuīcán) destro<BR><BR>rank = 2657
+疫: [yì] 免疫 miǎnyì immunity; 瘟疫 wēnyì pestilenc<BR><BR>rank = 2658
+幢: [zhuàng] (量) (for buildings)<BR>[chuáng] pennant; Buddhist pilla<BR><BR>rank = 2659
+汝: [rǔ] you, tho<BR><BR>rank = 2660
+毯: [tǎn] (毯子 tǎnzi) blanket; (地毯 dìtǎn) carpet, ru<BR><BR>rank = 2662
+挫: [cuò] setback, (=挫折 cuòzhé) frustrate, defea<BR><BR>rank = 2664
+纺: [fǎng] spin yarn; 纺织 fǎngzhī spin and weave; 纺车 fǎngchē spinning whee<BR><BR>rank = 2667
+朽: [xiǔ] 腐朽 fǔxiǔ decayed, rotte<BR><BR>rank = 2668
+锤: [chuí] hamme<BR><BR>rank = 2671
+兑: [duì] exchange, convert, add (water etc.); 兑换 duìhuàn convert, exchang<BR><BR>rank = 2673
+辫: [biàn] brai<BR><BR>rank = 2675
+堕: [duò] fall, sink; 堕落 duòluò degenerate, sink lo<BR><BR>rank = 2683
+笛: [dí] bamboo flute, whistl<BR><BR>rank = 2684
+觅: [mì] seek; look for; deman<BR><BR>rank = 2686
+蔽: [bì] cover, shelter, hide; 隐蔽 yǐnbì conceal oneself; cover<BR><BR>rank = 2687
+谐: [xié] in harmon<BR><BR>rank = 2688
+氓: [máng] 流氓 liúmáng hoodlum<BR>[méng] common peopl<BR><BR>rank = 2689
+蔑: [miè] 轻蔑 qīngmiè scornfu<BR><BR>rank = 2690
+沸: [fèi] 沸腾 fèiténg boiling; 沸点 boiling poin<BR><BR>rank = 2694
+藉: [jí] 狼藉 lángjí &LT;archaic&GT; in disorder<BR>[jiè] (=借 jiè) borrow, len<BR><BR>rank = 2696
+卸: [xiè] unload, discharge; remove; shir<BR><BR>rank = 2698
+熄: [xī] extinguish, put out, go out; 熄灭 xīmiè go out, die ou<BR><BR>rank = 2700
+扁: [biǎn] flat; inscription; 扁担 biǎndan carrying pole<BR>[piān] 扁<BR><BR>rank = 2701
+炭: [tàn] charcoa<BR><BR>rank = 2702
+慷: [kāng] high-spirited; 慷慨 kāngkǎi fervent; liberal, generou<BR><BR>rank = 2703
+篷: [péng] sail; 帐篷 zhàngpéng ten<BR><BR>rank = 2704
+眨: [zhǎ] wink, blin<BR><BR>rank = 2706
+譬: [pì] 譬如 pìrú for instance, for exampl<BR><BR>rank = 2709
+叨: [dāo] 叨叨 dāodao chatter<BR>[tāo] 叨光 tāoguāng much oblige<BR><BR>rank = 2711
+蔬: [shū] 蔬菜 shūcài vegetabl<BR><BR>rank = 2712
+绸: [chóu] (丝绸 sīchóu) sil<BR><BR>rank = 2713
+婿: [xù] son-in-la<BR><BR>rank = 2714
+寥: [liáo] few, empty, vacant, lonel<BR><BR>rank = 2716
+浇: [jiāo] irrigate, water; pour liquid on; 浇<BR><BR>rank = 2719
+乓: [pāng] bang; 乒乓 pīngpāng pingpong<BR>{Compare with 兵 bīng soldier<BR><BR>rank = 2724
+膏: [gāo] 牙膏 yágāo toothpaste; 油膏 ointment<BR>[gào] lubricat<BR><BR>rank = 2725
+膛: [táng] (胸膛) chest; chambe<BR><BR>rank = 2726
+琢: [zuó] 琢磨 zuómo ponder<BR>[zhuó] 琢磨 zhuómó polis<BR><BR>rank = 2732
+啪: [pā] (sound=) ban<BR><BR>rank = 2733
+淑: [shū] &LT;archaic&GT; kind and gentl<BR><BR>rank = 2738
+叭: [bā] (=吧) &LT;used for sound value&GT<BR><BR>rank = 2740
+弊: [bì] 弊病 bìbìng malady, evil; drawback; 利弊 pros and con<BR><BR>rank = 2742
+灶: [zào] stove; kitche<BR><BR>rank = 2743
+醋: [cù] vinegar; 吃醋 be jealous (in love affair<BR><BR>rank = 2746
+斌: [bīn] (variant of 彬 bīn<BR><BR>rank = 2747
+奠: [diàn] establish; give offerings to the dea<BR><BR>rank = 2754
+屯: [tún] (屯子) village; collec<BR><BR>rank = 2755
+膨: [péng] expand, inflate; 膨胀 péngzhàng expand, swel<BR><BR>rank = 2760
+沦: [lún] sink; 沦陷 lúnxiàn fall (to enemy); 沦为 be reduced t<BR><BR>rank = 2761
+缕: [lǚ] thread; strand; 蓝缕 lánlǚ shabby, ragge<BR><BR>rank = 2762
+壤: [rǎng] (=土壤 tǔrǎng) soi<BR><BR>rank = 2763
+冶: [yě] smelt (metal<BR><BR>rank = 2765
+暇: [xiá] leisure; 空暇 kòngxiá spare time; 不暇 bùxiá be too bus<BR><BR>rank = 2766
+揉: [róu] rub, knea<BR><BR>rank = 2767
+萝: [luó] vine; 萝卜 luóbo radish; 胡萝卜 húluóbo carrot; 菠萝 bōluó pineappl<BR><BR>rank = 2769
+翔: [xiáng] circle in the ai<BR><BR>rank = 2772
+蛛: [zhū] 蜘蛛 zhīzhū spide<BR><BR>rank = 2773
+栗: [lì] (栗子 lìzi) chestnut; (F��) trembl<BR><BR>rank = 2776
+荫: [yìn] shady<BR>[yīn] (=阴<BR><BR>rank = 2780
+讥: [jī] 讥笑 jīxiào mock; 讥讽 jīfěng ridicul<BR><BR>rank = 2783
+葱: [)</TD><TD>[cōng] green, (=葱头) onion, scallio<BR><BR>rank = 2786
+巩: [gǒng] 巩固 gǒnggù consolidat<BR><BR>rank = 2787
+粥: [zhōu] porridge, gruel, congee<BR>[yù] (=鬻) sell, ven<BR><BR>rank = 2790
+斋: [zhāi] vegetarian religious diet, give alms, room or buildin<BR><BR>rank = 2791
+迄: [qì] 迄今 qìjīn hitherto, up to now, so fa<BR><BR>rank = 2793
+帜: [zhì] 旗帜 qízhì banner, flag, stand, positio<BR><BR>rank = 2794
+菌: [jūn] fungus, bacterium; 细菌, 病菌 germ<BR>[jùn] mushroo<BR><BR>rank = 2796
+铅: [qiān] lead (Pb); 铅笔 qiānbǐ penci<BR><BR>rank = 2800
+贿: [huì] (贿赂 huìlù) bribe; 行贿 give a brib<BR><BR>rank = 2801
+绒: [róng] down; velvet; flos<BR><BR>rank = 2802
+侣: [lǚ] companion, associat<BR><BR>rank = 2803
+锻: [duàn] forge; 锻炼 duànliàn exercis<BR><BR>rank = 2805
+谴: [qiǎn] 谴责 qiǎnzé condem<BR><BR>rank = 2806
+汹: [xiōng] 汹涌 xiōngyǒng turbulen<BR><BR>rank = 2809
+敷: [fū] apply (powder, ointment, etc.); spread; 敷眼 to elaborat<BR><BR>rank = 2810
+宵: [xiāo] night; 通宵 tōngxiāo throughout the night; 元宵节 Yuánxiāojié Lantern Festiva<BR><BR>rank = 2813
+讳: [huì] hide; avoid; name of deceased perso<BR><BR>rank = 2815
+锣: [luó] gon<BR><BR>rank = 2824
+撼: [hàn] 震撼 shake, shock, vibrat<BR><BR>rank = 2825
+亨: [hēng] successful, go smoothly, &LT;electrical terminology&GT; henr<BR><BR>rank = 2827
+淌: [tǎng] drip (water or blood), shed (tears), trickle (sweat<BR><BR>rank = 2828
+扛: [káng] carry on the shoulder<BR>[gāng] lift with both hand<BR><BR>rank = 2833
+杉: [shān] China fir<BR>[shā] 杉篙 shāgāo fir scaffold-pol<BR><BR>rank = 2835
+燥: [zào] dry; 干燥 gānzào dry, dull; 枯燥 kūzào borin<BR><BR>rank = 2842
+匀: [yún] to divide evenly; to spare; eve<BR><BR>rank = 2846
+渺: [miǎo] 渺小 tiny, negligible; 渺茫 miǎománg distant and indistinc<BR><BR>rank = 2848
+碟: [dié] small plate or dish; 茶碟 saucer; 飞碟 frisbee, UF<BR><BR>rank = 2849
+嵌: [qiàn] 镶嵌 xiāngqiàn inlay, set, moun<BR><BR>rank = 2851
+沃: [wò] irrigate; (肥沃 féiwò) fertile; 沃野 wòyě fertile lan<BR><BR>rank = 2853
+剖: [pōu] cut/slit open, (=解剖 jiěpōu) dissect; 剖面 pōumiàn cross section, sectional view; 剖析 pōuxī analyse, dissec<BR><BR>rank = 2854
+姬: [jī] &LT;archaic&GT; honorable woman, concubine, &LT;family name&GT<BR><BR>rank = 2858
+绰: [chuò] 绰号 chuòhào nickname<BR>[chāo] grab; take u<BR><BR>rank = 2861
+嗦: [suō] 哆嗦 duōsuo tremble, shive<BR><BR>rank = 2864
+绞: [jiǎo] twist; 绞杀 strangle; 绞刑 death by hangin<BR><BR>rank = 2865
+轴: [zhóu] axle; axis; spool<BR>[zhòu<BR><BR>rank = 2867
+垒: [lěi] build by piling up stones etc.; 垒求 softbal<BR><BR>rank = 2868
+噪: [zào] 噪声 zàoshēng nois<BR><BR>rank = 2869
+蕴: [yùn] 蕴藏 yùncáng contain, hold in stor<BR><BR>rank = 2870
+邵: [Shào] &LT;family name&GT<BR><BR>rank = 2871
+咋: [zǎ] &LT;local&GT; (=怎么 zěnme) how<BR>[zé] &LT;archaic&GT; bite<BR>[zhā] how?, what?, why?; 咋呼 zhāhu bluster, show off<BR>[zhà] bite; 咋舌 zhàshé cluck with the tongue (in surrprice/etc.), to be left speechless<BR>{Compare with 昨 zuó yesterday<BR><BR>rank = 2874
+坪: [píng] level ground; 草坪 cǎopíng law<BR><BR>rank = 2880
+佣: [yōng] hire, (=佣人 yōngrén) servant; 雇佣 gùyōng hire<BR>[yòng] (=佣金 yòngjīn) commissio<BR><BR>rank = 2886
+卵: [luǎn] (卵子) egg, ovum; 卵巢 luǎncháo ovar<BR><BR>rank = 2888
+昼: [zhòu] daytim<BR><BR>rank = 2890
+憋: [biē] check, restrain, suppress; suffocate, feel depresse<BR><BR>rank = 2893
+奎: [kuí] (used in transliterations) 奎宁 kuíníng quinin<BR><BR>rank = 2895
+捂: [wǔ] seal, cover, muffle<BR>[wú] 枝<BR><BR>rank = 2899
+煎: [jiān] to fr<BR><BR>rank = 2900
+瞅: [chǒu] see, look at<BR>[qiu] 溜<BR><BR>rank = 2903
+蚀: [shí] lose; erode, corrod<BR><BR>rank = 2904
+熔: [róng] fuse, smelt, (熔化 rónghuà) melt; 熔岩 róngyán lav<BR><BR>rank = 2907
+虾: [xiā] shrimp; 龙虾 lóngxiā lobster; 虾炒饭 xiāchǎofàn shrimp fried rice<BR>[há] (=蛤); 虾蟆 háma frog, toa<BR><BR>rank = 2908
+谬: [miù] 荒谬 huāngmiù absurd; 谬论 miùlùn fallac<BR><BR>rank = 2911
+绅: [shēn] 绅士 shēnshì gentleman, gentr<BR><BR>rank = 2914
+镶: [xiāng] inlay; edg<BR><BR>rank = 2923
+聋: [lóng] (耳聋 ěrlóng) dea<BR><BR>rank = 2925
+募: [mù] raise, recrui<BR><BR>rank = 2928
+垄: [lǒng] ridge or raised path in field; 垄断 monopoliz<BR><BR>rank = 2929
+彦: [yàn] man of virtue and abilit<BR><BR>rank = 2932
+翘: [qiào] hold up; 翘尾巴 qiào wěiba 'to hold up the tail' = to be/get cocky, to be snobbish and self-important<BR>[qiáo] raise one's head; become warpe<BR><BR>rank = 2935
+趴: [pā] lie prone; lean ove<BR><BR>rank = 2936
+杏: [xìng] apricot; 杏仁 almon<BR><BR>rank = 2937
+彰: [zhāng] obvious, apparant; showy; 表彰 biǎozhāng commend, cit<BR><BR>rank = 2960
+阐: [chǎn] 阐明 chǎnmíng clarify; 阐述 chǎnshù expoun<BR><BR>rank = 2967
+讼: [sòng] 诉讼 sùsòng lawsui<BR><BR>rank = 2968
+枢: [shū] 枢纽 shūniǔ pivot, axi<BR><BR>rank = 2970
+崭: [zhǎn] &LT;archaic&GT; towering; 崭新 zhǎnxīn brand-new, completely ne<BR><BR>rank = 2972
+蒲: [pú] cattail, &LT;family name&GT<BR><BR>rank = 2973
+泻: [xiè] 倾泻 come down in torrents; 泻药 laxativ<BR><BR>rank = 2974
+俭: [jiǎn] economical, (=俭朴 jiǎnpǔ) frugal; 勤俭 qínjiǎn industrious and thrift<BR><BR>rank = 2978
+橡: [xiàng] (=橡树 xiàngshù) oak, rubber tree; 橡胶 xiàngjiāo rubber; 橡皮 xiàngpí eraser, rubbe<BR><BR>rank = 2982
+溶: [róng] (=溶化 rónghuà) dissolve; 溶液 (chemical) solutio<BR><BR>rank = 2983
+瀑: [pù] 瀑布 pùbù waterfal<BR><BR>rank = 2994
+扒: [bā] hold on to; dig up; rake; strip<BR>[pá] rake up; stew, brais<BR><BR>rank = 2997

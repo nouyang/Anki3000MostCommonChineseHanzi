@@ -1,0 +1,499 @@
+男: [nán] male, (=男人 nánrén) ma<BR><BR>rank = 501
+举: [jǔ] raise; 举行 jǔxíng hold (a meeting); 选举 xuǎnjǔ election; 举例 jǔlì give an exampl<BR><BR>rank = 502
+客: [kè] (=客人 kèrén) guest; 客观 kèguān objective; 客气 kèqi polit<BR><BR>rank = 503
+证: [zhèng] prove; 图书证 túshūzhèng library card; 签证 qiānzhèng vis<BR><BR>rank = 504
+苦: [kǔ] bitter; 艰苦 jiānkǔ arduous; 痛苦 tòngkǔ sufferin<BR><BR>rank = 505
+照: [zhào] shine; 照相 zhàoxiàng phot<BR><BR>rank = 506
+注: [zhù] pour, (F�]) notes; 注意 zhùyì pay attention; 注视 zhùshì gaz<BR><BR>rank = 507
+费: [fèi] cost; 学费 xuéfèi tuitio<BR><BR>rank = 508
+足: [zú] foot, (=足够 zúgòu) enough; 满足 mǎnzú satisf<BR><BR>rank = 509
+尔: [ěr] &LT;archaic&GT; you; 尔后 ěrhòu thereafter; 高尔夫 gāo'ěrfū gol<BR><BR>rank = 510
+招: [zhāo] beckon, recruit, attract; 招待 entertain (guests<BR><BR>rank = 511
+群: [qún] crowd, group; 群众 qúnzhòng The Masse<BR><BR>rank = 512
+热: [rè] ho<BR><BR>rank = 513
+推: [tuī] pus<BR><BR>rank = 514
+晚: [wǎn] late; 晚上 wǎnshang evening; 夜晚 yèwǎn night; 晚饭 wǎnfàn dinne<BR><BR>rank = 515
+响: [xiǎng] sound; 影响 yǐngxiǎng influenc<BR><BR>rank = 516
+称: [chēng] weigh, name<BR>[chèn] 对称 duìchèn symmetri<BR><BR>rank = 517
+兴: [xìng] 高兴 gāoxìng glad<BR>[xīng] 兴奋 xīngfèn excited<BR>{Compare with 六 liù six<BR><BR>rank = 518
+待: [dài] treat, entertain, wait for<BR>[dāi] (=呆 dāi) sta<BR><BR>rank = 519
+约: [yuē] approximately, arrange, appointment<BR>[yāo] weig<BR><BR>rank = 520
+阳: [yáng] opposite of 阴 yīn; 太阳 tàiyáng the su<BR><BR>rank = 521
+哥: [gē] (=哥哥 gēge) older brothe<BR><BR>rank = 522
+惊: [jīng] surpris<BR><BR>rank = 523
+吗: [ma] &LT;interrogative particle&GT;<BR>[má] what; 干吗? gàn má? What's up?<BR>[mǎ] 吗啡 mǎfēi morphin<BR><BR>rank = 524
+整: [zhěng] (=整个 zhěnggè) whole; 调整 tiáozhěng adjust; 整齐 zhěngqí nea<BR><BR>rank = 525
+支: [zhī] branch, support; 支持 zhīchí sustain; 地支 dìzhī the Twelve Terrestrial Branche<BR><BR>rank = 526
+古: [gǔ] (=古代 gǔdài) ancient<BR>{Compare with 舌 shé tongue<BR><BR>rank = 527
+汉: [hàn] Chinese ethnicity; 汉语 hànyu Chinese; 汉字 hànzi Chinese character; 老汉 lǎohàn old ma<BR><BR>rank = 528
+突: [tū] charge forward, stick out; 突然 tūrán suddenl<BR><BR>rank = 529
+号: [hào] name, number, mark<BR>[háo] yel<BR><BR>rank = 530
+绝: [jué] cut off, absolut<BR><BR>rank = 531
+选: [xuǎn] (=选择 xuǎnzé) choose, select; 选举 xuǎnjǔ electio<BR><BR>rank = 532
+吧: [ba] at end of sentence, indicates suggestion<BR>[bā] snap<BR><BR>rank = 533
+参: [cān] 参加 cānjiā participate<BR>[shēn] 人参 rénshēn ginseng<BR>[cēn] 参差 cēncī uneven, irregula<BR><BR>rank = 534
+刊: [kān] periodical, publication; 报刊 bǎokān periodical publications, the pres<BR><BR>rank = 535
+亚: [yà] inferior, second; 亚洲 Yàzhōu Asi<BR><BR>rank = 536
+复: [fù] (F��) 恢复 huīfù recover, (F�}) 复杂 fùzá complicated, complex, (F覆) cove<BR><BR>rank = 537
+伤: [shāng] wound, injury, injure; 创伤 chuāngshāng traum<BR><BR>rank = 538
+类: [lèi] category, kind, type; 类似 lèisì simila<BR><BR>rank = 539
+备: [bèi] (=准备 zhǔnbèi) get ready, prepare; 设备 shèbèi equipmen<BR><BR>rank = 540
+欢: [huān] (=欢乐 huānlè) happy, joyous; 喜欢 xǐhuan lik<BR><BR>rank = 541
+另: [lìng] other; 另外 lìngwài other, beside<BR><BR>rank = 542
+港: [gǎng] harbor; 香港 Xiānggǎng Hong Kon<BR><BR>rank = 543
+势: [shì] power; 形势 xíngshì circumstances; 姿势 zīshì postur<BR><BR>rank = 544
+刻: [kè] carve, quarter hour, momen<BR><BR>rank = 545
+星: [xīng] star; 火星 huǒxīng Mars; 星期 xīngqī wee<BR><BR>rank = 546
+断: [duàn] cut off; 不断 búduàn unceasing; 判断 pànduàn judg<BR><BR>rank = 547
+陈: [chén] display, explain, stale, (dynasty 557-589<BR><BR>rank = 548
+掌: [zhǎng] palm of the hand; 掌握 zhǎngwò gras<BR><BR>rank = 549
+农: [nóng] (=农民 nóngmín) farmer, peasant; 农业 nóngyè agricultur<BR><BR>rank = 550
+夜: [yè] (=夜晚 yèwǎn) night; 半夜 bànyè, 午夜 wǔyè midnight; 夜里 yèlǐ at nigh<BR><BR>rank = 551
+般: [bān] sort, kind; 一般 yìbān ordinary<BR>[pán] happy<BR>[bō] 般若 bōrě buddhist wisdom, prajn<BR><BR>rank = 552
+念: [niàn] miss, read aloud; 观念 guānniàn concept; 念书 niànshū stud<BR><BR>rank = 553
+价: [jià] (F�r) (=价值 jiàzhí) value, (=价钱 jiàqian) price<BR>[jie] (F�r)<BR>[jiè] servan<BR><BR>rank = 554
+脑: [nǎo] (=脑子 nǎozi) brain; 脑袋 nǎodai head; 脑壳 nǎoké skull; 电脑 diànnǎo compute<BR><BR>rank = 555
+规: [guī] 规律 guīlǜ regular pattern; 规定 guīdìng regulation<BR><BR>rank = 556
+底: [dǐ] bottom; 彻底 chèdǐ thorough; 到底 dàodǐ after al<BR><BR>rank = 557
+故: [gù] cause, therefore; 故事 gùshi story; 故意 gùyì on purpos<BR><BR>rank = 558
+省: [shěng] province, economize, omit<BR>[xǐng] 反省 fǎnxǐng introspectio<BR><BR>rank = 559
+妈: [mā] mother, mom; 妈妈 māma mam<BR><BR>rank = 560
+刚: [gāng] firm, (=刚才 gāngcái) just (a moment ago<BR><BR>rank = 561
+句: [jù] sentenc<BR><BR>rank = 562
+显: [xiǎn] appear; 显然 xiǎnrán obviou<BR><BR>rank = 563
+消: [xiāo] disappear; 消息 xiāoxi news; 消灭 xiāomiè peris<BR><BR>rank = 564
+衣: [yī] (=衣服 yīfu) clothing<BR>[yì] wear (clothing), give (clothing) to others to wea<BR><BR>rank = 565
+陆: [lù] land; 大陆 continent<BR>[liù] six (= 六 liù<BR><BR>rank = 566
+器: [qì] utensil, (=机器 jīqi) machine; 武器 wǔqì weapo<BR><BR>rank = 567
+确: [què] true; 正确 zhèngquè correct; 确实 quèshí indeed; 明确 míngquè explici<BR><BR>rank = 568
+破: [pò] smash; 破坏 pòhuài ruin; 破烂 pòlàn worn ou<BR><BR>rank = 569
+具: [jù] 工具 gōngjù tool; 具有 jùyǒu possess; 具体 jùtǐ concrete; 玩具 wánjù to<BR><BR>rank = 570
+居: [jū] (=居住 jūzhù) live, reside; 居民 jūmín resident; 居然 jūrán unexpectedl<BR><BR>rank = 571
+批: [pī] &LT;classifier for a batch/lot&GT;, comment, criticize, refute; 批评 pīpíng criticiz<BR><BR>rank = 572
+送: [sòng] see somebody off, deliver, giv<BR><BR>rank = 573
+泽: [zé] 沼泽 zhǎozé marsh, swamp; 色泽 sèzé colour and lustre; 毛泽东 Máo Zédōng CCP leader and founder of the PR<BR><BR>rank = 574
+紧: [jǐn] tight; 紧张 jǐnzhāng tense; 要紧 yàojǐn importan<BR><BR>rank = 575
+帮: [bāng] (=帮助 bāngzhù, 帮忙 bāngmáng) help, gan<BR><BR>rank = 576
+线: [xiàn] line, thread; 光线 guāngxiàn light ray; 电线 diànxiàn (electric) wir<BR><BR>rank = 577
+存: [cún] (=存在 cúnzài) exist; 保存 bǎocún preserv<BR><BR>rank = 578
+愿: [yuàn] wis<BR><BR>rank = 579
+奇: [qí] marvellous, (=希奇 xīqí) rare, strange<BR>[jī] odd (not even<BR><BR>rank = 580
+害: [hài] harmful; 害虫 hàichóng destructive insect; 厉害 lìhai fierc<BR><BR>rank = 581
+增: [zēng] (=增加 zēngjiā, =增长 zēngzhǎng) increas<BR><BR>rank = 582
+杨: [yáng] poplar tree; 三角叶杨 sānjiǎoyèyáng cottonwoo<BR><BR>rank = 583
+料: [liào] (=材料 cáiliào) material, expect, anticipate; 资料 zīliào means, data, materia<BR><BR>rank = 584
+州: [zhōu] prefecture; 广州 Guǎngzhōu Canto<BR><BR>rank = 585
+节: [jié] joint, section, festival, holiday, (=节日 jiérì) holiday<BR>[jiē] knot, link; 节子 jiēzi gnarl, knot (in wood<BR><BR>rank = 586
+左: [zuǒ] left; 左边 zuǒbiān left sid<BR><BR>rank = 587
+装: [zhuāng] dress up, load, install, (=假装 jiǎzhuāng) preten<BR><BR>rank = 588
+易: [yì] (=容易 róngyì) easy, change; 易经 Yìjīng Book of Change<BR><BR>rank = 589
+著: [zhù] write, book<BR>[zhe] (S着)<BR>[zháo] (S着)<BR>[zhuó] (S着)<BR>[zhāo] (S着<BR><BR>rank = 590
+急: [jí] urgent; 着急 zháojí anxious; 急忙 jímáng in a hurr<BR><BR>rank = 591
+久: [jiǔ] (for a) long tim<BR><BR>rank = 592
+低: [dī] low; 降低 jiàngdī reduce; 低级 dījí elementary; 高低 gāodī heigh<BR><BR>rank = 593
+岁: [suì] years old; 岁数 suìshu age; 万岁 wànsuì long life, Your/His Majesty, 'Banzai<BR><BR>rank = 594
+需: [xū] (=需要 xūyào) need; 必需 bìxū essentia<BR><BR>rank = 595
+酒: [jiǔ] wine; 啤酒 píjiǔ beer; 喝酒 hējiǔ drink win<BR><BR>rank = 596
+河: [hé] river; 河南省 Hénán shěng Henan Province; 运河 yùnhé cana<BR><BR>rank = 597
+初: [chū] beginning, first (in order); 初步 chūbù preliminary; 起初 qǐchū at firs<BR><BR>rank = 598
+游: [yóu] (=游泳 yóuyǒng) swim, (=旅游 lǚyóu) trave<BR><BR>rank = 599
+严: [yán] severe, ster<BR><BR>rank = 600
+铁: [tiě] iron; 地铁 dìtiě underground, subwa<BR><BR>rank = 601
+族: [zú] (=民族 mínzú) people, nationality, (=种族 zhǒngzú) rac<BR><BR>rank = 602
+除: [chú] get rid of, divide, (=除了 chúle) excep<BR><BR>rank = 603
+份: [fèn] portion, share, copy, &LT;classifier for portion, share, copies of newspapers etc.&GT;, college degre<BR><BR>rank = 604
+敢: [gǎn] dare; 勇敢 yǒnggǎn brav<BR><BR>rank = 605
+胡: [hú] recklessly; 胡说 nonsense (F�E) (=胡子 húzi) beard (F�k) 胡同 hútòng lan<BR><BR>rank = 606
+血: [xuè] blood<BR>[xiě] bloo<BR><BR>rank = 607
+企: [qǐ] stand on tiptoe, hope for, look forward to; 企业 qǐyè enterprise; 企图 qǐtú attempt; 企鹅 pengui<BR><BR>rank = 608
+仍: [réng] (=仍然 réngrán, =仍旧 réngjiù) still, yet, as befor<BR><BR>rank = 609
+投: [tóu] throw; 投票 tóupiào vot<BR><BR>rank = 610
+闻: [wén] smell, hear; 新闻 xīnwén new<BR><BR>rank = 611
+斗: [dǒu] 10 liters; 烟斗 yāndǒu tobacco/opium pipe; 北斗星 Běidǒuxīng The Big Dipper, The Plow<BR>[dòu] (F�Y) figh<BR><BR>rank = 612
+纪: [jì] 世纪 shìjì century; 纪念 jìniàn memento; 纪律 jìlǜ discipline<BR>[Jǐ] &LT;family name&GT<BR><BR>rank = 613
+脚: [jiǎo] foot; 赤脚 chìjiǎo barefoot; 脚趾 jiǎozhǐ toe<BR>[jué] (=角 jiǎo) role, part, character, actor, actres<BR><BR>rank = 614
+右: [yòu] right; 右边 yòubiān right side; 左右 zuǒyòu around, nearby, more or less<BR>{Compare with 石 shí stone<BR><BR>rank = 615
+苏: [sū] 苏醒 sūxǐng revive; 苏州 Sūzhōu; 苏联 Sūlián USS<BR><BR>rank = 616
+标: [biāo] mark; 标准 biāozhǔn standar<BR><BR>rank = 617
+饭: [fàn] rice, foo<BR><BR>rank = 618
+云: [yún] say, (F��) (=云彩 yúncai) clou<BR><BR>rank = 619
+病: [bìng] sick; 毛病 máobing malfunctio<BR><BR>rank = 620
+医: [yī] (=医学 yīxué) medical science; 医生 yīshēng doctor; 医院 yīyuàn hospita<BR><BR>rank = 621
+阿: [ā] 阿拉伯 ālābó Arab<BR>[ē] 阿弥陀佛ēmítuógó Amitabha = Buddha preserve u<BR><BR>rank = 622
+答: [dá] (=回答 huídá) answer<BR>[dā] 答应 dāying respond, promis<BR><BR>rank = 623
+土: [tǔ] earth, (=土地 tǔdì) land, (=土壤 tǔrǎng) soil<BR>{Compare with 士 shì scholar<BR><BR>rank = 624
+况: [kuàng] 情况 qíngkuàng circumstances; 况且 kuàngqiě moreove<BR><BR>rank = 625
+境: [jìng] border, territory; 环境 huánjìng environmen<BR><BR>rank = 626
+软: [ruǎn] soft; 软件 ruǎnjiàn softwar<BR><BR>rank = 627
+考: [kǎo] (=考虑 kǎolǜ) consider, (=考试 kǎoshì) exa<BR><BR>rank = 628
+娘: [niáng] mother, aunt<BR>[niang] 姑娘 gūniang gir<BR><BR>rank = 629
+村: [cūn] village, rustic; 农村 nóngcūn countryside, villag<BR><BR>rank = 630
+刀: [dāo] knif<BR><BR>rank = 631
+击: [jī] beat, strike, knock; 打击 dǎjī strike, hitt, attack, assaul<BR><BR>rank = 632
+仅: [jǐn] (=仅仅 jǐnjǐn) only, barel<BR><BR>rank = 633
+查: [chá] examine, investigate; 检查 jiǎnchá inspect<BR>[Zhā] &LT;family name&GT<BR><BR>rank = 634
+引: [yǐn] draw, stretch, (=引起 yǐnqǐ) cause, (=吸引 xīyǐn) attrac<BR><BR>rank = 635
+朝: [cháo] towards, dynasty; 朝鲜 Cháoxiān Korea<BR>[zhāo] (morning<BR><BR>rank = 636
+育: [yù] raise, educate; 教育 jiàoyù education<BR>[yō] 杭育 hángyō heave-ho, yo-h<BR><BR>rank = 637
+续: [xù] (=继续 jìxù) continue; 连续 liánxù continuou<BR><BR>rank = 638
+独: [dú] only, alone; 独立 dúlì independen<BR><BR>rank = 639
+罗: [luó] (=罗网 luówǎng) birdnet; 罗马 Luómǎ Rome; 罗盘 luópán compass<BR>[luō] 罗嗦 luōsuo wordy, troublesome; 哩哩罗罗 līliluōluō the sound of boiling/rumbling/etc<BR><BR>rank = 640
+买: [mǎi] bu<BR><BR>rank = 641
+户: [hù] door, household; 窗户 chuānghù windo<BR><BR>rank = 642
+护: [hù] (=保护 bǎohù) guard, protect; 护士 hùshi nurs<BR><BR>rank = 643
+喝: [hē] drink<BR>[hè] shou<BR><BR>rank = 644
+朋: [péng] 朋友 péngyǒu friend<BR>{Compare with 丽 lì beautiul and 册 cè book<BR><BR>rank = 645
+供: [gōng] supply<BR>[gòng] confes<BR><BR>rank = 646
+责: [zé] duty; 责任 zérèn responsibilit<BR><BR>rank = 647
+项: [xiàng] (=项目 xiàngmù) ite<BR><BR>rank = 648
+背: [bèi] back<BR>[bēi] carry on the bac<BR><BR>rank = 649
+余: [yú] I, me, (F�N) left-over, extra; 其余 the rest; 余弦 cosin<BR><BR>rank = 650
+希: [xī] sparse, scattered, watery, this; 希望 xīwàng hope; 希奇 xīqí rare, strange; 希腊 Xīlà Greec<BR><BR>rank = 651
+卫: [wèi] 保卫 defend; 卫生 sanitary; 卫星 satellit<BR><BR>rank = 652
+列: [liè] column, line up; 列车 lièchē train; 排列 páiliè arrang<BR><BR>rank = 653
+图: [tú] picture; 地图 dìtú map; 图书馆 túshūguǎn librar<BR><BR>rank = 654
+室: [shì] room; 教室 jiàoshì classroom; 卧室 wòshì bedroom; 办公室 bàngōngshì offic<BR><BR>rank = 655
+乱: [luàn] chaotic, disorderly, messy; 混乱 hùnluàn chao<BR><BR>rank = 656
+刘: [Liú] &LT;family name&GT<BR><BR>rank = 657
+爷: [yé] father; 爷爷 yéye grandp<BR><BR>rank = 658
+龙: [lóng] dragon; 恐龙 kǒnglóng dinosau<BR><BR>rank = 659
+咱: [zán] (=咱们 zánmen) we = you and I<BR>[zan] (abbreviation for 早晚 zǎowǎn) all the time, morning and evening, sooner or late<BR><BR>rank = 660
+章: [zhāng] chapter, seal, stamp, medal, badge, rule<BR><BR>rank = 661
+席: [xí] mat, seat, banquet; 主席 zhǔxí chairperso<BR><BR>rank = 662
+错: [cuò] (=错误 cuòwù) mistake; 不错 búcuò not bad, pretty good; 一点儿不错! yìdiǎnr búcuò! perfectly correct<BR><BR>rank = 663
+兄: [xiōng] (elder) brother; 兄弟 xiōngdì brothers<BR>{Compare with 儿(F兄) ér child and 只 zhǐ only<BR><BR>rank = 664
+暗: [àn] (=黑暗 hēi'àn) dark; 暗暗 secretly; 阴暗 gloomy; 暗示 hin<BR><BR>rank = 665
+创: [chuàng] 创造 chuàngzào create<BR>[chuāng] 创伤 chuāngshāng traum<BR><BR>rank = 666
+排: [pái] arrange, row, line<BR>[pǎi] 排子车 pǎizìchē handcar<BR><BR>rank = 667
+春: [chūn] (=春天 chūntiān, =春季 chūnjì) spring; 春卷 chūnjuǎn spring roll; 春夏秋冬 chūnxiàqiūdōng the four season<BR><BR>rank = 668
+须: [xū] (F��) (=必须 bìxū) must, (F�P) (=胡须 húxū) bear<BR><BR>rank = 669
+承: [chéng] 承认 chéngrèn admit; 继承 jìchéng inheri<BR><BR>rank = 670
+案: [àn] desk, (law) case; 答案 dá'àn answer or solution to a proble<BR><BR>rank = 671
+忙: [máng] hurry, busy; 帮忙 help; 连忙 right awa<BR><BR>rank = 672
+呼: [hū] shout, exhale; 呼吸 hūxī breathe; 欢呼 huānhū chee<BR><BR>rank = 673
+树: [shù] tree; 树林 shùlín woods; 树木 shùmù trees; 树干 shùgàn trun<BR><BR>rank = 674
+痛: [tòng] painful; 痛苦 tòngkǔ suffering; 痛快 tòngkuai delighte<BR><BR>rank = 675
+沉: [chén] to sink; 沉重 chénzhòng heavy<BR>[chēn] 黑沉沉 hēichēnchēn pitch-blac<BR><BR>rank = 676
+啊: [a] (used as phrase suffix, indicating obviousness/impatience)<BR>[ā] (indicating elation); 啊!我又赢了! ā! Wǒ yòu yíngle! Ha! I've won again!<BR>[á] (indicating doubt or questioning), huh?; 啊?你说什么? ?? Nǐ shuō shenme? Huh? What are you saying?<BR>[ǎ] (indicating puzzled surprise)<BR>[à] (indicating agreement/approval); 啊,好吧! ?, hǎoba! Well, OK<BR><BR>rank = 677
+灵: [líng] clever, spirit, soul, elf; 灵活 línghuó nimble, eas<BR><BR>rank = 678
+职: [zhí] duty; 职工 zhígōng staff; 职业 zhíyè occupatio<BR><BR>rank = 679
+乡: [xiāng] countryside, home tow<BR><BR>rank = 680
+细: [xì] thin; 仔细 zǐxì careful; 细胞 xìbāo cell; 详细 xiángxì detaile<BR><BR>rank = 681
+诉: [sù] 告诉 gàosu tell; 诉讼 sùsòng lawsui<BR><BR>rank = 682
+态: [tài] form; 态度 tàidu manner; 状态 zhuàngtài stat<BR><BR>rank = 683
+停: [tíng] (=停止 tíngzhǐ) stop; 停车场 tíngchēchǎng parking lo<BR><BR>rank = 684
+印: [yìn] (=印刷 yìnshuā) print, (=印章 yìnzhāng) sea<BR><BR>rank = 685
+笔: [bǐ] writing implement; 毛笔 brush; 钢笔 pen; 铅笔 penci<BR><BR>rank = 686
+夏: [xià] (=夏天 xiàtiān) summer; 春夏秋冬 chūnxiàqiūdōng the four season<BR><BR>rank = 687
+助: [zhù] (=帮助 bāngzhù) hel<BR><BR>rank = 688
+福: [fú] blessing, good fortune, (=幸福 xìngfú) happiness, happy; 祝福 zhùfú invoke/wish a blessing; 福建 Fújiàn<BR>{It is common to hang calligraphy of this character up-side-down on doors, in order to get people to note that 福倒了 fú dàole = 'The 'Fu' is up-side-down', which is pronounced just as 福到了 = 'Fortune/happiness has come'<BR><BR>rank = 689
+块: [kuài] piece, lump, chunk, (=元 yuán) Chinese dolla<BR><BR>rank = 690
+冷: [lěng] cold; 冷静 lěngjìng cal<BR><BR>rank = 691
+球: [qiú] ball; 足球 zúqiú football (soccer); 地球 dìqiú the Eart<BR><BR>rank = 692
+姑: [gū] 姑娘 gūniang gir<BR><BR>rank = 693
+划: [huá] row (a boat) (F��) scratch<BR>[huà] (F��) (=计划 jìhuà) plan (F��<BR><BR>rank = 694
+既: [jì] since, already; 既然 jìrán since, now tha<BR><BR>rank = 695
+质: [zhì] (=物质 wùzhì) matter, substance; 质量 zhìliàng quality, mas<BR><BR>rank = 696
+巴: [bā] 尾巴 wěiba tail; 嘴巴 zuǐbā mouth; 巴西 Bāxī Brazil<BR>[bà] 嘴巴子 zuǐbàzi mouth, a slap in the fac<BR><BR>rank = 697
+致: [zhì] send, convey; 一致 yízhì identical, (F�@) 细致 xìzhì carefu<BR><BR>rank = 698
+湾: [wān] harbor; 台湾 Táiwā<BR><BR>rank = 699
+演: [yǎn] (=表演 biǎoyǎn) perform, act, performanc<BR><BR>rank = 700
+木: [mù] tree, (=木头 mùtou) wood;<BR>{Compare with 本 běn root and 大 dà big<BR><BR>rank = 701
+韦: [wéi] soft leather, &LT;family name&GT<BR><BR>rank = 702
+怪: [guài] blame, (=奇怪 qíguài) strange; 怪物 guàiwu monste<BR><BR>rank = 703
+围: [wéi] surround; 围棋 wéiqí Japanese 'go<BR><BR>rank = 704
+静: [jìng] still, quiet; 静电 jìngdiàn static electricit<BR><BR>rank = 705
+旁: [páng] (=旁边 pángbiān) side<BR>[bàng] (=傍<BR><BR>rank = 706
+园: [yuán] (=花园 huāyuán) garden, (=公园 gōngyuán) par<BR><BR>rank = 707
+否: [fǒu] not; 是否 shìfǒu whether or not, is (it) or is (it) not?<BR>[pǐ] bad, inferior; 臧否 zāngpǐ pass judgment (on people<BR><BR>rank = 708
+副: [fù] assist, vice-; 副词 fùcí adver<BR><BR>rank = 709
+辑: [jí] 编辑 biānjí edit; 逻辑 luójí &LT;loan&GT; logi<BR><BR>rank = 710
+采: [cǎi] pick, gather (F��)<BR>[cài] (F��) 采地 càidì fie<BR><BR>rank = 711
+食: [shí] eat, (=食物 shíwù, =食品 shípǐn) food<BR>[sì] fee<BR><BR>rank = 712
+登: [dēng] clim<BR><BR>rank = 713
+够: [gòu] enough; 能够 nénggòu be capable o<BR><BR>rank = 714
+赛: [sài] contest; 比赛 match, rac<BR><BR>rank = 715
+米: [mǐ] (=米饭 mǐfàn) rice, meter; 玉米 yùmǐ cor<BR><BR>rank = 716
+假: [jiǎ] false<BR>[jià] (=假期 jiàqī) vacatio<BR><BR>rank = 717
+较: [jiào] relatively, quite; 比较 bǐjiào compare, relatively<BR>[jiǎo] (bǐjiǎo = bǐjiào<BR><BR>rank = 718
+姐: [jiě] (=姐姐 jiějie) older sister; 小姐 xiǎojie young lad<BR><BR>rank = 719
+楼: [lóu] story, building; 大楼 mansion; 楼梯 lóutī stair<BR><BR>rank = 720
+获: [huò] (F�@) (=获得 huòdé) get, obtain, (F��) 收获 shōuhuò harves<BR><BR>rank = 721
+孙: [sūn] grandchild; 子孙 zǐsūn children and grandchildren, descendants; 孙悟空 Sūn Wùkōng monkey with supernatural powers in the nobel 'Journey to the West'; 孙中山 Sūn Zhōngshān = 孙逸仙 Sūn Yixiān = Sun Yat-sen, leader of the Republican Revolution and the KM<BR><BR>rank = 722
+宣: [xuān] (=宣布 xuānbù) declare; 宣传 propagand<BR><BR>rank = 723
+穿: [chuān] penetrate, wea<BR><BR>rank = 724
+诗: [shī] poem; 诗人 shīrén poe<BR><BR>rank = 725
+歌: [gē] song; 唱歌 chànggē to sin<BR><BR>rank = 726
+速: [sù] fast; 速度 sùdù spee<BR><BR>rank = 727
+忽: [hū] disregard, (=忽然 hūrán) suddenly, (=忽而 hū'ér) now..<BR><BR>rank = 728
+堂: [táng] hall; 食堂 shítáng dining hall, canteen; 课堂 kètáng classroom<BR>[tāng] 亮堂堂 liàngtāngtāng brightly lit, brillian<BR><BR>rank = 729
+敌: [dí] (敌人 dírén) enemy; 敌军 enemy troop<BR><BR>rank = 730
+试: [shì] try, test; 考试 kǎoshì test, qui<BR><BR>rank = 731
+谢: [xiè] thank; 谢谢 xièxie thanks; 非常感<BR><BR>rank = 732
+央: [yāng] entreat, center; 中央 central; 央求 beg, plea<BR><BR>rank = 733
+怀: [huái] bosom, cherish; 怀疑 huáiyí suspect; 怀念 huáiniàn cherish memor<BR><BR>rank = 734
+顾: [gù] (=照顾 zhàogu) look after; 顾客 gùkè custome<BR><BR>rank = 735
+验: [yàn] (=经验 jīngyàn) experienc<BR><BR>rank = 736
+营: [yíng] camp; 营火 campfire; 营业 do busines<BR><BR>rank = 737
+止: [zhǐ] (=停止 tíngzhǐ) sto<BR><BR>rank = 738
+姓: [xìng] family name; 姓名 xìngmíng full name (family name and personal name); 您贵姓 Nín guìxìng? (May I ask for) your family name, Sir/Madame<BR><BR>rank = 739
+养: [yǎng] raise, nourish; 营养 yíngyǎng nutritio<BR><BR>rank = 740
+丽: [lì] 美丽 měilì beautiful; 壮丽 majestic<BR>[Lí] Korea<BR>{Compare with 朋 péng friend and 册 cè book<BR><BR>rank = 741
+属: [shǔ] belong to, be subordinate to, born in a specific year acoording to the Chinese calendar<BR>[zhǔ] enjoi<BR><BR>rank = 742
+景: [jǐng] scene, scenery; 风景 fēngjǐng scenery, landscap<BR><BR>rank = 743
+郭: [guō] outer wall of city, &LT;family name&GT<BR><BR>rank = 744
+依: [yī] (=依靠 yīkào) depend on, comply with, according to; 依然 yīrán stil<BR><BR>rank = 745
+威: [wēi] 威胁 wēixié threaten, imperil; 示威 shìwēi demonstrate; 挪威 Nuówēi Norwa<BR><BR>rank = 746
+按: [àn] press, (=按照 ànzhào) according to; 按摩 ànmó massag<BR><BR>rank = 747
+恶: [è] evil<BR>[wù] (厌恶) hate<BR>[ě] (恶心) nauseou<BR><BR>rank = 748
+慢: [màn] slo<BR><BR>rank = 749
+座: [zuò] (=座位 zuòwèi) seat, place, stand, pedestal, base, &LT;classifier for mountains, bridges etc.&GT<BR><BR>rank = 750
+罪: [zuì] crime, guil<BR><BR>rank = 751
+维: [wéi] 纤维 xiānwéi fiber; 维护 wéihù safeguard; 思维 síwéi thin<BR><BR>rank = 752
+渐: [jiàn] (=渐渐 jiànjiàn, =逐渐 zhújiàn) gradually<BR>[jiān] dip/soak in liqui<BR><BR>rank = 753
+胜: [shèng] (=胜利 shènglì) victory, triumph, wi<BR><BR>rank = 754
+藏: [cáng] store; conceal, hide<BR>[zàng] (=西藏 Xīzàng) Tibe<BR><BR>rank = 755
+皇: [huáng] 皇帝 huángdì emperor; 皇后 huánghòu empres<BR><BR>rank = 756
+街: [jiē] street; 街道 street, neighborhood; 街头 street-corne<BR><BR>rank = 757
+激: [jī] surge, dash, (=激动 jīdòng) excite; 激烈 jīliè intens<BR><BR>rank = 758
+异: [yì] different; 异常 yìcháng unusua<BR><BR>rank = 759
+摘: [zhāi] pick, take off, selec<BR><BR>rank = 760
+角: [jiǎo] horn, corner, dime<BR>[jué] actor, rol<BR><BR>rank = 761
+瞧: [qiáo] loo<BR><BR>rank = 762
+负: [fù] carry on shoulder, suffer, negativ<BR><BR>rank = 763
+施: [shī] carry out; 措施 cuòshī to measure, step; 施工 constructio<BR><BR>rank = 764
+模: [mó] 模范 mófàn model; 模仿 mófǎng imitate<BR>[mú] 模样 múyàng appearance; 模子 múzi mold, pattern, di<BR><BR>rank = 765
+草: [cǎo] grass; 草莓 cǎoméi strawberr<BR><BR>rank = 766
+某: [mǒu] certain, some; 某人 mǒurén somebod<BR><BR>rank = 767
+银: [yín] silver; 银行 yínháng ban<BR><BR>rank = 768
+露: [lù] (=露水 lùshui) dew, show, reveal, betray<BR>[lòu] revea<BR><BR>rank = 769
+阵: [zhèn] battle array, &LT;classifier for phases, spells etc.&GT;; 一阵风 yí zhèn fēng a short period of tim<BR><BR>rank = 770
+值: [zhí] (=值得 zhíde) be worth, (=价值 jiàzhí) valu<BR><BR>rank = 771
+班: [bān] class, work; 上班 shàngbān go to work; 值班 zhíbān be on dut<BR><BR>rank = 772
+层: [céng] layer, level, store<BR><BR>rank = 773
+修: [xiū] repair, decorate; 修改 xiūgǎi revis<BR><BR>rank = 774
+差: [chà] differ, wrong<BR>[chā] 差别 difference<BR>[chāi] 出差<BR>[cī] rank<BR>[cuō] stumbl<BR><BR>rank = 775
+味: [wèi] (=味道 wèidao) flavor, tast<BR><BR>rank = 776
+织: [zhī] weave, knit; 组织 zǔshī organize; 纺织 fǎngzhī spin and weav<BR><BR>rank = 777
+药: [yào] medicine, dru<BR><BR>rank = 778
+馆: [guǎn] building; 饭馆 restauran<BR><BR>rank = 779
+密: [mì] thick, dens<BR><BR>rank = 780
+亮: [liàng] bright, light, shine, loud and clear; 漂亮 piàoliang handsome, beautiful, remarkable, brilliant, smar<BR><BR>rank = 781
+律: [lǜ] 法律 fǎlǜ law; 律师 lǜshū lawyer; 纪律 jìlǜ discipline; 旋律 xuánlǜ tune, melod<BR><BR>rank = 782
+习: [xí] 练习 liànxí practice; 学习 xuéxí study; 习惯 xíguàn habi<BR><BR>rank = 783
+田: [tián] field; 田野 tiányě open countr<BR><BR>rank = 784
+简: [jiǎn] 简单 jiǎndān simple; 简体字 jiǎntǐzì simple form characte<BR><BR>rank = 785
+免: [miǎn] exempt; 避免 bìmiǎn avoid; 免费 miǎnfèi fre<BR><BR>rank = 786
+毒: [dú] (毒物) poison; (毒品) drug; 病毒 viru<BR><BR>rank = 787
+归: [guī] retur<BR><BR>rank = 788
+波: [bō] (=波浪 bōlàng) wave; 波长 bīchánga wavelengt<BR><BR>rank = 789
+型: [xíng] mould, type; 典型 diǎnxíng typica<BR><BR>rank = 790
+屋: [wū] (屋子 wūzi) room, (=房屋 fángwū) building; 屋顶 roo<BR><BR>rank = 791
+换: [huàn] change, exchang<BR><BR>rank = 792
+救: [jiù] help, rescue; 救命 jiùmìng! Help! Save me<BR><BR>rank = 793
+寄: [jì] to mail; 寄生虫 jìshēngchóng parasit<BR><BR>rank = 794
+帝: [dì] emperor; 帝国 dìguó empire; 上帝 Shàngdì Go<BR><BR>rank = 795
+退: [tuì] go backwards, (=后退 hòutuì) retreat; 撤退 chètuì withdra<BR><BR>rank = 796
+洋: [yáng] (=海洋 hǎiyáng) ocean; 太平洋 Tàipíng Yáng Pacific Ocean<BR>[yāng] 暖洋洋 nuǎnyāngyāng war<BR><BR>rank = 797
+丝: [sī] silk, threa<BR><BR>rank = 798
+湖: [hú] lake; 湖泊 húpō lakes; 湖南 Húnán; 湖北 Húbě<BR><BR>rank = 799
+睡: [shuì] (=睡觉 shuìjiào) slee<BR><BR>rank = 800
+劳: [láo] (=劳动 láodòng) labor<BR>[lào] encourage, consol<BR><BR>rank = 801
+妇: [fù] (=妇女 fùnǚ) woman; 夫妇 fūfù married coupl<BR><BR>rank = 802
+伯: [bó] eldest brother, uncle<BR>[bǎi] 大伯子 dàbǎizi eldest brother of one's husband<BR>[bai] 叔伯 shūbai cousinship on father's side<BR>[bà] (=霸)<BR>{Compare with 佰 bǎi hundred<BR><BR>rank = 803
+尼: [ní] 尼姑 Buddhist nun; 尼加拉瓜 Níjiālāguā Nicaragua; 尼龙 nílóng nylo<BR><BR>rank = 804
+皮: [pí] (=皮肤 pífū) ski<BR><BR>rank = 805
+祖: [zǔ] (祖先 zǔxiān) ancestor; 祖母 zǔmǔ grandmothe<BR><BR>rank = 806
+雄: [xióng] powerful, male; 英雄 yīngxióng hero; 雄伟 xióngwěi grand; 雄鸡 xióngjī rooste<BR><BR>rank = 807
+婚: [hūn] (=结婚 jíehūn) marry; 婚礼 hūnlǐ wedding; 婚姻 hūnyīn marriag<BR><BR>rank = 808
+康: [kāng] 健康 jiànkāng health; 康熙字典 Kāngxī Zìdiǎn dictionary compiled in the Kangzi perio<BR><BR>rank = 809
+评: [píng] criticize, comment, revie<BR><BR>rank = 810
+追: [zhuī] pursu<BR><BR>rank = 811
+哈: [hā] exhale, sip, aha!, &LT;the sound of laughter, etc.&GT;<BR>[hǎ] &LT;family name&GT;<BR>[hà] 哈撒 hàsa shake, swing; 哈什蚂 hàshimǎ Chinese forest fro<BR><BR>rank = 812
+络: [luò] net, twine<BR>[lào] 挂络 guàlào involvement, implicatio<BR><BR>rank = 813
+店: [diàn] (=商店 shāngdiàn) store, shop; 饭店 fàndiàn restauran<BR><BR>rank = 814
+翻: [fān] turn over; 翻译 fānyì translat<BR><BR>rank = 815
+环: [huán] ring; 环境 huánjìng environment, surrounding<BR><BR>rank = 816
+礼: [lǐ] ceremony; 婚礼 hūnlǐ wedding; 礼貌 lǐmào polit<BR><BR>rank = 817
+跑: [pǎo] run<BR>[páo] paw the eart<BR><BR>rank = 818
+超: [chāo] (=超过 chāoguò) go past, exceed, (=超级 chāojí) supe<BR><BR>rank = 819
+叶: [yè] (F�~) leaf (of a plant)<BR>[xié] harmoniz<BR><BR>rank = 820
+压: [yā] press, pressure<BR>[yà] 压根 yàgēn from the start, in the first place, altogether, entirely, totally, at all, simpl<BR><BR>rank = 821
+占: [zhān] fortune telling<BR>[zhàn] occupy; 占领 zhànlǐng captur<BR><BR>rank = 822
+均: [jūn] even; 平均 píngjūn averag<BR><BR>rank = 823
+永: [yǒng] (=永远 yǒngyuǎn) always, forever, eternal<BR>{Compare with 水 shuǐ water<BR><BR>rank = 824
+烈: [liè] (=强烈 qiángliè) intense; 热烈 ardent; 烈士 marty<BR><BR>rank = 825
+奖: [jiǎng] prize, award; 奖金 bonus; 奖学金 scholarshi<BR><BR>rank = 826
+婆: [pó] old lady; 老婆 lǎopo wif<BR><BR>rank = 827
+赶: [gǎn] catch u<BR><BR>rank = 828
+富: [fù] (=富有 fùyǒu) rich; 丰富 fēngfù abundant; 财富 cáifù wealt<BR><BR>rank = 829
+兰: [lán] 兰花 lánhuā orchi<BR><BR>rank = 830
+录: [lù] record; 记录 jìlù take notes; 录音机 tape recorde<BR><BR>rank = 831
+画: [huà] draw, pictur<BR><BR>rank = 832
+遇: [yù] meet; 遇到 yùdào encounte<BR><BR>rank = 833
+顿: [dùn] to pause, mea<BR><BR>rank = 834
+艺: [yì] skill, (=艺术 yìshù) art; 文艺 wényì literature and ar<BR><BR>rank = 835
+普: [pǔ] 普通 pǔtōng common; 普通话 Pǔtōnghuà Common Speach = Mandarin; 普遍 pǔbiàn universa<BR><BR>rank = 836
+判: [pàn] judge; 批判 pīpàn criticiz<BR><BR>rank = 837
+源: [yuán] (=来源 láiyuán) source, origin; 资源 zīyuán resource<BR><BR>rank = 838
+亿: [yì] 100 millio<BR><BR>rank = 839
+素: [sù] plain, white, vegetarian; 因素 yīnsù factor, elemen<BR><BR>rank = 840
+船: [chuán] boat, ship; 渡船 dùchuán ferry; 宇宙飞船 yǔzhòu fēichuán 'cosmic flying boat' = spaceshi<BR><BR>rank = 841
+继: [jì] (=继续 jìxù) continue; 继承 jìchéng inheri<BR><BR>rank = 842
+尚: [shàng] esteem; 高尚 gāoshàng noble, lofty<BR>[shang] 和尚 héshang mon<BR><BR>rank = 843
+嘴: [zuǐ] (嘴巴 zuǐba) mouth; 嘴唇 zuǐchún li<BR><BR>rank = 844
+察: [chá] 观察 guānchá observe; 警察 jǐngchá polic<BR><BR>rank = 845
+雨: [yǔ] rain; 雨水 rainwater; 暴风雨 bàofēngyǔ rainstor<BR><BR>rank = 846
+优: [yōu] excellent; 优良 fine; 优秀 outstanding; 优越 yōuyuè superio<BR><BR>rank = 847
+您: [nín] &LT;polite&GT; you; 您贵姓 Nín guìxìng? (May I ask for) your family name, Sir/Madame<BR><BR>rank = 848
+险: [xiǎn] (危险 wēixiǎn) danger; 保险 bǎoxiǎn insuranc<BR><BR>rank = 849
+烟: [yān] (F��) smoke, cigarette, mist<BR>[yīn] (=氤<BR><BR>rank = 850
+阶: [jiē] (=台阶) steps; 阶级 class; 军阶 rank; 阶段 phas<BR><BR>rank = 851
+担: [dān] carry on a shoulder pole<BR>[dàn] two buckets full, 50 kg<BR><BR>rank = 852
+散: [sàn] break up, distribute, dispel<BR>[sǎn] fall apart, scattere<BR><BR>rank = 853
+板: [bǎn] board, hard, (F��) 老板 lǎobǎn shopkeeper, proprietor, bos<BR><BR>rank = 854
+钟: [zhōng] (F��) bell, clock; 三点钟 3 o'clock, (F�R) 钟爱 zhōng'ài dote on, &LT;family name&GT<BR><BR>rank = 855
+访: [fǎng] (=访问 fǎngwèn) visit; 采访 gather materia<BR><BR>rank = 856
+妹: [mèi] (妹妹 mèimei) little sister; 姐妹 jiěmèi sisters<BR>{Compare with �� mò = wife of the last ruler of the Xia dynasty<BR><BR>rank = 857
+伸: [shēn] stretc<BR><BR>rank = 857
+佛: [Fó] Buddha; 佛教 Fójiào Buddhism<BR>[fú] 仿佛 fǎngfú see<BR><BR>rank = 859
+限: [xiàn] limit, bounds; 有限 limited; 限制 restric<BR><BR>rank = 860
+讨: [tǎo] (=讨论 tǎolùn) discuss; 讨厌 tǎoyàn digusting<BR>{讨口彩 tǎokǒucǎi = 讨个吉利(话) tǎo ge jílì(huà) to ask for something as a token of good omen<BR><BR>rank = 861
+临: [lín] overlook, be adjacent to; 临时 temporar<BR><BR>rank = 862
+吴: [Wú] &LT;family name&GT;, Wu Kingdom (222-280 A.D.<BR><BR>rank = 863
+摇: [yáo] shak<BR><BR>rank = 864
+跳: [tiào] jump; 跳伞 tiàosǎn parachute; 跳舞 tiàowǔ danc<BR><BR>rank = 865
+曲: [qū] (=弯曲 wānqū) curved<BR>[qǔ] melod<BR><BR>rank = 866
+练: [liàn] white silk, (=练习 liànxí) practic<BR><BR>rank = 867
+构: [gòu] 结构 jiégòu structure; 构成 constitute; 构<BR><BR>rank = 868
+玩: [wán] play; 玩具 wánjù toy; 好玩儿 hǎowánr fu<BR><BR>rank = 869
+玉: [yù] (玉石 yùshí) jade; 玉米 yùmǐ corn<BR>{Compare with 王 wáng king<BR><BR>rank = 870
+犯: [fàn] violate; 犯罪 fànzuì commit a crime; 罪犯 crimina<BR><BR>rank = 871
+厂: [chǎng] (=工厂 gōngchǎng) factor<BR><BR>rank = 872
+肯: [kěn] be willing to, consent; 肯定 kěndìng definitel<BR><BR>rank = 873
+协: [xié] 协作 xiézuò cooperat<BR><BR>rank = 874
+幸: [xìng] good fortune, luck; 幸福 xìngfú happ<BR><BR>rank = 875
+挥: [huī] wave, wield; command an army; 挥手 wave (one's hand<BR><BR>rank = 876
+效: [xiào] (=效果 xiàoguǒ) effect, result; 有效 yǒuxiào effectiv<BR><BR>rank = 877
+齐: [qí] 整齐 zhěngqí neat; 一齐 yìqí together<BR>[zhāi] (=斋)<BR>[zī] (=粢<BR><BR>rank = 878
+封: [fēng] to seal; 封建 feudal; 信封 envelop<BR><BR>rank = 879
+温: [wēn] (=温暖 wēnnuǎn) warm; 温度 wēndù temperatur<BR><BR>rank = 880
+疑: [yí] (怀疑 huáiyí) doubt, suspect; 迟疑 chíyí hesitat<BR><BR>rank = 881
+肉: [ròu] flesh, meat; 肌肉 jīròu muscle<BR>{Compare with 内 nèi inside<BR><BR>rank = 882
+攻: [gōng] (=进攻 jìngōng, =攻击 gōngjī) attack; 专攻 specialize in studyin<BR><BR>rank = 883
+纸: [zhǐ] paper; 报纸 bàozhǐ newspape<BR><BR>rank = 884
+策: [cè] plan; 政策 zhèngcè polic<BR><BR>rank = 885
+充: [chōng] fill; 充分 chōngfèn full, ample; 充满 chōngmǎn full o<BR><BR>rank = 886
+顶: [dǐng] top, &LT;classifier for hats etc.&GT;; 一顶帽子 yì dǐng màozi a ha<BR><BR>rank = 887
+寻: [xún] (=寻找 xúnzhǎo) seek<BR>[xín] 寻思 xíns<BR><BR>rank = 888
+宁: [nìng] (=宁愿 nìngyuàn, 宁可 jìngkě) prefer, rather<BR>[níng] 宁静 tranqui<BR><BR>rank = 889
+沙: [shā] sand; 沙漠 shāmò desert; 沙丘 shāqiū dune; 沙发 shāfā &LT;loan&GT; sof<BR><BR>rank = 890
+防: [fáng] embankment, guard, protect, anti<BR><BR>rank = 891
+抓: [zhuā] grab, seize, arrest, attract, scratc<BR><BR>rank = 892
+例: [lì] (=例子 lìzi) example; 例如 lìrú for instanc<BR><BR>rank = 893
+股: [gǔ] thigh, sectio<BR><BR>rank = 894
+卖: [mài] sell; 苹果怎么卖? Píngguǒ zěnme mài? How much are the apples<BR><BR>rank = 895
+顺: [shùn] along, in the same direction as, obey, suitabl<BR><BR>rank = 896
+警: [jǐng] 警察 jǐngchá police; 警告 jǐnggào war<BR><BR>rank = 897
+梦: [mèng] drea<BR><BR>rank = 898
+剧: [jù] drama, play, opera; 剧烈 jùliè sever<BR><BR>rank = 899
+善: [shàn] good; 改善 gǎishàn improve; 善于 be good a<BR><BR>rank = 900
+蒙: [méng] to cover, ignorant<BR>[mēng] cheat<BR>[Měng] 蒙古 Měnggǔ Mongoli<BR><BR>rank = 901
+票: [piào] ticke<BR><BR>rank = 902
+良: [liáng] (优良 yōuliáng, 良好) good; 良心 liángxīn conscienc<BR><BR>rank = 903
+范: [fàn] &LT;family name&GT;; (F��) 范围 fànwéi scope, range; 模范 mófàn model, fine exampl<BR><BR>rank = 904
+坚: [jiān] hard, solid, firmly; 坚持 persist; 坚定 fir<BR><BR>rank = 905
+端: [duān] hold sth. level with both hands, extremity, en<BR><BR>rank = 906
+靠: [kào] lean on, rely on, keep close to, come up to, nea<BR><BR>rank = 907
+杂: [zá] mixed; 复杂 fùzá complicated; 杂志 zázhì magazine<BR>[zā] 拉里拉杂 lālilāzā ramblin<BR><BR>rank = 908
+贵: [guì] expensive, valuabl<BR><BR>rank = 909
+怒: [nù] anger, rag<BR><BR>rank = 910
+稿: [gǎo] stalk of grain, draft, sketch, manuscrip<BR><BR>rank = 911
+拍: [pāi] clap, paddle; 乒乓拍 pīngpāngpāi ping-pong paddl<BR><BR>rank = 912
+率: [lǜ] rate, proportion; 频率 pínlǜ frequency<BR>[shuài] 率领 shuàilǐng lead, comman<BR><BR>rank = 913
+旧: [jiù] old (not new) (compare with 老 lǎo old, not young; 新 xīn new<BR><BR>rank = 914
+掉: [diào] drop, fal<BR><BR>rank = 915
+啦: [la] corresponding to 了 le plus 啊 a, &LT;interjection indicating excitement/doubt&GT;<BR>[lā] 呼啦啦 hūlālā flapping sound<BR>[lá] 啦啦 lálá chat, gossip, jaw; 啦呱 láguā chat, gossi<BR><BR>rank = 916
+莫: [mò] nothing; not; 莫大 mòdà greatest; 莫名其妙 mòmíngqímiào baffling, inexplicabl<BR><BR>rank = 917
+授: [shòu] award, give; teach; 教授 jiàoshòu professo<BR><BR>rank = 918
+守: [shǒu] guard; 保守 bǎoshǒu conservativ<BR><BR>rank = 919
+油: [yóu] oil; 汽油 qìyóu gasoline; 酱油 jiàngyóu soy sauce<BR>[yōu] 绿油油 lǜyōuyōu bright/fresh green; 碧油油 bìyōuyōu bluish gree<BR><BR>rank = 920
+恩: [ēn] kindness; 周恩来 Zhōu ēnlá<BR><BR>rank = 921
+积: [jī] accumulate; 积极 jījí positive; 面积 are<BR><BR>rank = 922
+益: [yì] (=利益 lìyì) advantage, profì<BR><BR>rank = 923
+县: [xiàn] county; 县长 xiànzhǎng county magistrat<BR><BR>rank = 924
+哭: [kū] cry, wee<BR><BR>rank = 925
+罢: [bà] stop; 罢工 strike; 罢了 bàle that's all<BR>[pí] (=疲) tired, weary, exhauste<BR><BR>rank = 926
+庭: [tíng] 家庭 jiātíng family; 法庭 court; 庭院 courtyar<BR><BR>rank = 927
+窗: [chuāng] (=窗户 chuānghu, =窗口 chuāngkǒu) window; 窗帘 curtai<BR><BR>rank = 928
+扬: [yáng] raise; 发扬 fāyáng develop, promot<BR><BR>rank = 929
+忘: [wàng] (=忘记 wàngjì) forget<BR>[wáng] 忘<BR><BR>rank = 930
+午: [wǔ] 中午 noon; 上午 morning; 下午 afternoon; 午饭 lunch<BR>{Compare with 牛 niú cow<BR><BR>rank = 931
+卡: [kǎ] block, calory, card<BR>[qiǎ] checkpoin<BR><BR>rank = 932
+雪: [xuě] snow; 雪花 xuěhuā snowflake; 滑雪 huáxuě to sk<BR><BR>rank = 933
+菜: [cài] vegetable, dis<BR><BR>rank = 934
+牌: [pái] tablet, brand, cards, dominoes; 牌子 páizi sign, label, log<BR><BR>rank = 935
+牛: [niú] ox, cow, bull; 牛奶 niúnǎi milk<BR>{Compare with 午 wǔ noon<BR><BR>rank = 936
+脱: [tuō] take off; 脱离 tuōlí break awa<BR><BR>rank = 937
+博: [bó] abundant, plentiful; 博士 Ph.D.; 博爱 universal love; 博物馆 bóqùguǎn museu<BR><BR>rank = 938
+丈: [zhàng] 10 chǐ = 3 1/3 meters, to measure land, male elder relative/person; 丈夫 zhàngfu husban<BR><BR>rank = 939
+弹: [dàn] 炸弹 bomb; 子弹 bullet<BR>[tán] 弹吉他 play guita<BR><BR>rank = 940
+洲: [zhōu] continent; 亚洲 Yàzhōu Asia; 欧洲 ōuzhōu Europe; 非洲 Fēizhōu Afric<BR><BR>rank = 941
+松: [sōng] pine tree; 松鼠 squirrel, (F��) loos<BR><BR>rank = 942
+坏: [huài] (F��) bad<BR>[pī] (=坯<BR><BR>rank = 943
+邓: [Dèng] &LT;family name&GT<BR><BR>rank = 944
+鲜: [xiān] fresh<BR>[xiǎn] few, rare; 朝鲜 Kore<BR><BR>rank = 945
+短: [duǎn] short (opposite of 长 cháng<BR><BR>rank = 946
+毕: [bì] 毕业 bìyè graduate; 毕竟 bìjìng after al<BR><BR>rank = 947
+置: [zhì] put, place; 位置 wèizhi positio<BR><BR>rank = 948
+楚: [chu] 清楚 qīngchu clear<BR>[chǔ] 苦楚 kǔchǔ miser<BR><BR>rank = 949
+欧: [ōu] 欧洲 ōuzhōu Europe; 欧姆 ōumǔ oh<BR><BR>rank = 950
+略: [lüè] brief, slight; 略微 lüèwēi slightl<BR><BR>rank = 951
+智: [zhì] 智慧 zhìhuì wisdom; 智力 zhìlì intellegenc<BR><BR>rank = 952
+岛: [dǎo] islan<BR><BR>rank = 953
+抗: [kàng] (=抵抗 dǐkàng) resist; 反抗 revolt; 抗议 protes<BR><BR>rank = 954
+妻: [qī] (=妻子 qīzi) wif<BR><BR>rank = 955
+抱: [bào] hug, embrac<BR><BR>rank = 956
+载: [zài] carry, be loaded with<BR>[zǎi] 记载 put down in writin<BR><BR>rank = 957
+败: [bài] (失败 shībài) lose, be defeated; 腐败 fǔbài corrup<BR><BR>rank = 958
+枪: [qiāng] gun<BR>[chēng] �偾� chánchēng come<BR><BR>rank = 959
+适: [shì] 合适 héshì suitable, appropriate<BR>[dí] 适从 dícóng follow, go t<BR><BR>rank = 960
+虚: [xū] empty, void; 谦虚 qiānxū modest; 虚心 xūxīn open-minded; 空虚 kōngxū hollo<BR><BR>rank = 961
+预: [yù] 预备 prepare; 预先 beforehand; 预报 forecas<BR><BR>rank = 962
+睛: [jīng] eye<BR>[jing] 眼睛 yǎnjing ey<BR><BR>rank = 963
+刺: [cì] thorn, prick, stab, irritate, (=刺杀 cìshā) assassinate<BR>[cī] wha<BR><BR>rank = 964
+爹: [diē] dad; 爹爹 diēdie daddy; 爹地 diēdì dadd<BR><BR>rank = 965
+纷: [fēn] 纷纷 one after another; 纠纷 jiūfēn dispute; 纷<BR><BR>rank = 966
+介: [jiè] 介绍 jièshào introduce; 介词 prepositio<BR><BR>rank = 967
+括: [kuò] 包括 bāokuò include; 概括 gàikuò generaliz<BR><BR>rank = 968
+销: [xiāo] melt (metal), remove, sell; 脱销 sold ou<BR><BR>rank = 969
+降: [jiàng] fall, descend<BR>[xiáng] 投降 tóuxiáng surrende<BR><BR>rank = 970
+鱼: [yú] fish; 金鱼 jīnyú goldfish; 鲨鱼 shāyú shar<BR><BR>rank = 971
+奔: [bēn] run fast, flee<BR>[bèn] go straight toward<BR><BR>rank = 972
+忍: [rěn] endure, tolerate; 忍不住 rénbuzhù can't bear, can't resis<BR><BR>rank = 973
+宗: [zōng] ancestor, clan, faction; 宗教 religion; 祖宗 ancestr<BR><BR>rank = 974
+盘: [pán] disk, tray; 算盘 suànpán abacus; 棋盘 chessboar<BR><BR>rank = 975
+耳: [ěr] (=耳朵 ěrduo) ear; 耳机 earphone, headphone<BR><BR>rank = 976
+野: [yě] wil<BR><BR>rank = 977
+讯: [xùn] interrogate; 通讯 tōngxùn news repor<BR><BR>rank = 978
+配: [pèi] match, deserve; 分配 distribute; 配合 pèihé cooperat<BR><BR>rank = 979
+禁: [jìn] (禁止 jìnzhǐ) prohibit<BR>[jīn] endure; 不禁 bùjīn can't resist (doing something<BR><BR>rank = 980
+索: [suǒ] rope; 思索 sīsuǒ think deeply; 索性 suǒxìng simply, jus<BR><BR>rank = 981
+赵: [Zhào] &LT;family name&GT<BR><BR>rank = 982
+默: [mò] silent; 默默 mòmò silently; 沉默 chénmò reticent; 幽默 yōumò humo<BR><BR>rank = 983
+徒: [tú] on foot, follower; 徒弟 túdi apprentice; 匪徒 fěitú gangste<BR><BR>rank = 984
+架: [jià] frame, rack, shelf, put up, &LT;classifier for planes, radios etc.&GT;; 一架飞机 yí jià fēijī an aeroplane; 书架 shūjià bookshel<BR><BR>rank = 985
+灯: [dēng] lam<BR><BR>rank = 986
+峰: [fēng] mountain pea<BR><BR>rank = 987
+状: [zhuàng] (=状态 zhuàngtài, =状况 zhuàngkuàng) condition, state of affair<BR><BR>rank = 988
+款: [kuǎn] fun<BR><BR>rank = 989
+移: [yí] (=移动 yídòng) move; 转移 shift, transform; 移植 transplan<BR><BR>rank = 990
+爸: [bà] dad; 爸爸 bàba dadd<BR><BR>rank = 991
+托: [tuō] hold in the palm, rely on; 委托 wěituō entrus<BR><BR>rank = 992
+洪: [hóng] (=洪水 hóngshuǐ) flood, vast, &LT;family name&GT;; 洪亮 hóngliàng loud and clear, magnanimit<BR><BR>rank = 993
+升: [shēng] liter, rise, ascen<BR><BR>rank = 994
+伙: [huǒ] &LT;classifier for groups, crowds, bands etc.&GT;, group of people. (=伙伴 huǒbàn) partner; 家伙 jiāhuo fello<BR><BR>rank = 995
+订: [dìng] conclude (compare with 定 dìng decide<BR><BR>rank = 996
+毫: [háo] long fine hair, milli-; 毫不 háobù not at al<BR><BR>rank = 997
+狐: [hú] 狐狸 húli fo<BR><BR>rank = 998
+镇: [zhèn] town, press down, calm, coo<BR><BR>rank = 999
