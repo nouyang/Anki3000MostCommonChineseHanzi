@@ -9,57 +9,41 @@ These texfiles are formatted in way so that they can be easily imported into Ank
 - use to add example words to https://ankiweb.net/shared/info/39888802
 - make chinese only cards:
 
+## quickstart
 
-import regex
-#result = regex.sub(ur'[^\p{Latin}]', u'', text)
-with open('0-500.txt') as f:
-    for i in range(20):
-        text = f.readline()
-        #lines = f.readlines
-        #print(lines[:5])
-        print(text)
-        text = text[1:] #remove first character (which is the hanzi)
-        text = text.split('{')[0]
-        #string.punctuation
-        r = regex.sub(r'[.]{3,}', u'…', text)
-        r = r.replace('<BR>', ';')
-        r = regex.sub(r'[\p{Latin}]', u'', r)
-        r = re.sub(r"[^\w^;^…^!]+",'', r) # replace not-word charatesr with empty string
-        r = re.sub(r"[^\w^…]{2,}",'; ', r) # replace not-word charatesr with empty string
-        r = re.sub(r"[0-9]+",'', r) # replace numbers
-        r = re.sub(r"^[^\w]+",'', r) # replace beginning not word chars
-        r = r.strip()
-        r = regex.sub(r'[;]$', u'', r) #add space between words
-        #r = regex.sub(r'[;]', u'; ', r)
+Run 
+```
+python scraper.py
+for file in *.txt; do (cat "${file}"; echo) >> concatenated.txt; done
+```
+This leaves some empty lines between concat'd files, if desired use following to
+delete empty lines:
+````
+vi: g/^$/d 
+```
 
+Open the jupyter notebook, run to turn the output from the zein.se website (concatenated.txt) into a dataframe. 
 
-        #s = re.sub(r'[^\w\s]','',s)
-        print(r)
-        print('\n---\n')
+We get our 2nd dataframe from ankiweb, where the description links to a
+spreadsheet, I included as 'AnkiwebMostCommon3000.csv'. The same python notebook
+reads this into a dataframe.
 
-def get_words(hanzi, line):
-    line = line[1:] #remove first character (which is the hanzi)
-    line = line.split('{')[0] # remove "{compare to " information
-    r = regex.sub(r'[.]{3,}', u'…', line) # replace ellipsis so not removed later
-    r = r.replace('<BR>', ';')
-    r = regex.sub(r'[\p{Latin}]', u'', r)
-    r = re.sub(r"[^\w^;^…^!]+",'', r) # replace not-word charatesr with empty string
-    r = re.sub(r"[^\w^…]{2,}",', ', r) # replace not-word charatesr with empty string
-    r = re.sub(r"[0-9]+",'', r) # replace numbers
-    r = re.sub(r"^[^\w]+",'', r) # replace beginning not word chars 
-    r = r.replace(';;', ';') 
-    r = r.replace(';', '; ') # add space between words
-    r = r.strip()
-    r = regex.sub(r'[;,]$', u'', r) # remove comma or semicolon at end
-    return r
+Both dataframes are concatenated by the Hanzi character. This new dataframe is
+saved to `ankiweb+zein_merged.csv`.  I open this is google sheets or libreoffice
+and convert to format as indicated by Ankiweb Addon Excel Import (see `SpreadsheetURL.txt` for link to this google sheet).
+ I save this final formmated version as `Formatted for Import.xsls`. Then open
+ Anki -> Import -> and it should detect fields correctly. For me I selected
+ "update notes" by accident and it actually did the merge step for me... I did
+ create fields beforehand as appropriate. Finally I styled my cards. 
 
+ Makre sue to check 'Allow HTML in fields!'
 
-mydict = {}
-with open('0-500.txt') as f:
-    lines = f.readlines()
-    for line in lines:
-        hanzi, full_defn = line.split(':')
-        words = get_words(line)
-        mydict[hanzi] = full_defn, words
-        
-pd.DataFrame.from_dict(mydict, orient='index', columns=['zein.se definition', 'words'])
+ALSO - When importing - make sure to have correct deck open. Or else Anki will
+not auto-detect the matching fields.
+
+Anyway - there are some pecularities - maybe best to just download from versionn
+I uploaded to ankiweb.: https://ankiweb.net/shared/info/595636619
+
+I have included some screenshots in the Screenshots folder in case of use -
+including of the styling I used, what it looks like to study on Android, etc.
+
